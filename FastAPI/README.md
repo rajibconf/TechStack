@@ -18,9 +18,9 @@
     # Run the live server with uvicorn:
     uvicorn main:app --reload
     ```
-> Check it
-Open your browser at http://127.0.0.1:8000.
-> Interactive API docs with Swagger UI
-Now go to http://127.0.0.1:8000/docs
-> Alternative API docs
-And now, go to http://127.0.0.1:8000/redoc
+### Check it
+> Open your browser at http://127.0.0.1:8000.
+### Interactive API docs with Swagger UI
+>Now go to http://127.0.0.1:8000/docs
+### Alternative API docs
+> And now, go to http://127.0.0.1:8000/redoc
